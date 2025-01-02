@@ -4,33 +4,33 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", "12227067"))
-API_HASH = getenv("API_HASH", "b463bedd791aa733ae2297e6520302fe")
-BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", "6204761408"))
-MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "samuelsfriends")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "AbhiModszYT_Return")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "AM_YTBott")
+API_ID = int(getenv("API_ID", "27087484"))
+API_HASH = getenv("API_HASH", "82dd93ce7ef09c7d98f45f2a32df9b0b")
+BOT_TOKEN = getenv("BOT_TOKEN", "7714673613:AAGxVjIsSpMzQ78BVeTS2KCSAfc7ord-cP0")
+OWNER_ID = int(getenv("OWNER_ID", "7921877964"))
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Sezar:alp@cluster0.gp7vh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "https://t.me/DumanMuzikGr")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "https://t.me/Dumancchannel")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "@ssezarjul")
 
 # Random Start Images
 IMG = [
-    "https://telegra.ph/file/00eb565274ccbffcf149d.jpg",
-    "https://telegra.ph/file/396e2af77c4664164de18.jpg",
-    "https://telegra.ph/file/6f92a0e943d68a15169c0.jpg",
-    "https://telegra.ph/file/d49fbf4c00f839641afe3.jpg",
-    "https://telegra.ph/file/cdcdceb3d4fc34675b815.jpg",
-    "https://telegra.ph/file/cc6259af790c13f98c38c.jpg",
-    "https://telegra.ph/file/ffa18225730df716d3532.jpg",
-    "https://telegra.ph/file/dc051f4160954159675a2.jpg",
-    "https://telegra.ph/file/e0e0a3f2addbf58b943e8.jpg",
-    "https://telegra.ph/file/2e6d9db59c537c4521440.jpg",
-    "https://telegra.ph/file/f1951920bbd57921d8820.jpg",
-    "https://telegra.ph/file/ece475f9a419442c18f1d.jpg",
-    "https://telegra.ph/file/99a0014129f08eb1a44dc.jpg",
-    "https://telegra.ph/file/ac8e3751509cf4e1b4756.jpg",
-    "https://telegra.ph/file/e07ef19b1f9bbde9909ad.jpg",
-    "https://telegra.ph/file/d3ee41261ed7779f30a89.jpg",
+    "https://t.me/Dumancchannel/5",
+    "https://t.me/Dumancchannel/5",
+    "https://t.me/Dumancchannel/5",
+    "https://t.me/Dumancchannel/5",
+    "https://t.me/Dumancchannel/5",
+    "https://t.me/Dumancchannel/5",
+    "https://t.me/Dumancchannel/5",
+    "https://t.me/Dumancchannel/5",
+    "https://t.me/Dumancchannel/5",
+    "https://t.me/Dumancchannel/5",
+    "https://t.me/Dumancchannel/5",
+    "https://t.me/Dumancchannel/5",
+    "https://t.me/Dumancchannel/5",
+    "https://t.me/Dumancchannel/5",
+    "https://t.me/Dumancchannel/5",
+    "https://t.me/Dumancchannel/5",
 ]
 
 
